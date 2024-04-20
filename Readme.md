@@ -49,16 +49,16 @@ _**a)Print odd numbers in an array**_
 
 _**b)Convert all the strings to title caps in a string array**_
 
-- [Arrow Function](./arrow_functions/b.Title_caps_%20anonymous_function.js)
+- [Arrow Function](./arrow_functions/b.Title_caps_arrow_function.js)
 
 _**c)Sum of all numbers in an array**_
 
-- [Arrow Function](./arrow_functions/c.Sum_of_all_numbers_anonymous_function.js)
+- [Arrow Function](./arrow_functions/c.Sum_of_all_numbers_arrow_function.js)
 
 _**d)Return all the prime numbers in an array**_
 
-- [Arrow Function](./arrow_functions/d.prime_numbers_anonymous_function.js)
+- [Arrow Function](./arrow_functions/d.prime_numbers_arrow_function.js)
 
 _**e)Return all the palindromes in an array**_
 
-- [Arrow Function](./arrow_functions/e.palindromes_%20anonymous_function.js)
+- [Arrow Function](./arrow_functions/e.palindromes_arrow_function.js)
